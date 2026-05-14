@@ -1,2 +1,2 @@
 This is a github integration with jenkins task.
-Trigger test 1
+Trigger test 2
